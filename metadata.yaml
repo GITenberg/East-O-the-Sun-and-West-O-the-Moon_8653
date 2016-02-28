@@ -1,0 +1,50 @@
+_repo: East-O-the-Sun-and-West-O-the-Moon_8653
+creator:
+  authors:
+  - agent_name: Moe, Jørgen Engebretsen
+    aliases:
+    - Moe, Jorgen Engebretsen
+    - Moe, J. E. (Jørgen Engebretsen)
+    birthdate: 1813
+    deathdate: 1882
+    gutenberg_agent_id: '34178'
+    url: http://www.gutenberg.org/2009/agents/34178
+    wikipedia: http://en.wikipedia.org/wiki/J%C3%B8rgen_Moe
+  - agent_name: Asbjørnsen, Peter Christen
+    aliases:
+    - Asbjørnsen, P. C. (Peter Christen)
+    - Bonifacius, Clemens
+    - Asbjornsen, Peter Christen
+    - Asbjörnsen, P. Chr.
+    birthdate: 1812
+    deathdate: 1885
+    gutenberg_agent_id: '34177'
+    url: http://www.gutenberg.org/2009/agents/34177
+    wikipedia: http://en.wikipedia.org/wiki/Peter_Christen_Asbj%C3%B8rnsen
+  - agent_name: Thorne-Thomsen, Gudrun
+    birthdate: 1873
+    gutenberg_agent_id: '2833'
+    url: http://www.gutenberg.org/2009/agents/2833
+description: ''
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8653'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Norway'
+- !lcc 'PZ'
+- !lcsh 'Fairy tales -- Norway'
+tableOfContents: East o' the Sun and West o' the Moon -- The three Billy Goats Gruff
+  -- Taper Tom -- Why the Bear is stumpy-tailed -- Reynard and the cock -- Bruin and
+  Reynard partners -- Boots and his brothers -- The lad who went to the North Wind
+  -- The giant who had no heart in his body -- The sheep and the pig who set up housekeeping
+  -- The parson and the clerk -- Father Bruin -- The pancake -- Why the sea is salt
+  -- The squire's bride -- Peik -- The princess who could not be silenced -- The twelve
+  wild ducks -- Gudbrand-on-the-Hillside -- The princess on the glass hill -- The
+  husband who was to mind the house -- Little Freddy with his fiddle.
+title: East O' the Sun and West O' the Moon
+url: http://www.gutenberg.org/ebooks/8653
